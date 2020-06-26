@@ -1,5 +1,5 @@
 # Photo-Renamer
-A photo renaming application that allows the user to add tags to images. 
+A photo renaming application that allows the user to add tags to images and/or chooses to rename them. 
 
 This program can be run in either a GUI or via terminal command. 
 

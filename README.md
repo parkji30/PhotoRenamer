@@ -10,7 +10,7 @@ tools via the tags added.
 
 1) In a terminal change directory to the src folder
 2) Now enter javac photoRenamer/StartView.java
-3) Now enter java phase1.StartView
+3) Now enter java phaseRenamer.StartView
 4) The program should now be open
 
 # ==== How to work the App ====

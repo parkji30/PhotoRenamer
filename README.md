@@ -9,7 +9,7 @@ tools via the tags added.
 # ===== How To Run The App =====
 
 1) In a terminal change directory to the src folder
-2) Now enter javac phase1/StartView.java
+2) Now enter javac photoRenamer/StartView.java
 3) Now enter java phase1.StartView
 4) The program should now be open
 

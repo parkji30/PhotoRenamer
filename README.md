@@ -6,14 +6,14 @@ This program can be run in either a GUI or via terminal command.
 A user can add "tags" to an image file which allows the user to search any image using command line or other search 
 tools via the tags added.
 
-===== How To Run The App =====
+# ===== How To Run The App =====
 
 1) In a terminal change directory to the src folder
 2) Now enter javac phase1/StartView.java
 3) Now enter java phase1.StartView
 4) The program should now be open
 
-==== How to work the App ====
+# ==== How to work the App ====
 
 1) You must first select a directory by using the 'Find Directory' button or by selecting a currently existing tag from the list
 on the left then click the 'Search By Selected Tag' button.

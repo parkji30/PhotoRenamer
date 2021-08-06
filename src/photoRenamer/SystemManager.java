@@ -12,8 +12,7 @@ public class SystemManager implements Serializable{
     private ArrayList<String> configTagList = new ArrayList<>();
 
     // The String representation of a path to our config file.
-    //private String configFilePath = "src/phase2/config.ser";
-    private String configFilePath = "src/phase2/config.ser";
+    private String configFilePath = "src/photoRenamer/config.ser";
 
     // An ArrayList of all directories containing Images with at least one tag.
     static ArrayList<Directory> directories = new ArrayList<>();

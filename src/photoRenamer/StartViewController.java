@@ -29,11 +29,11 @@ public class StartViewController {
     private SystemManager systemManager;
 
     public StartViewController(){
-        this.directory = new Directory("phase2/");
+        this.directory = new Directory("photoRenamer/");
         this.image = new Image("Welcome.png", this.directory,
-                new File("src/phase2/Welcome.png"));
+                new File("src/photoRenamer/Welcome.png"));
         this.systemManager = new SystemManager();
-        this.masterLogFile = new File ("src/phase2/MasterLogFile.txt");
+        this.masterLogFile = new File ("src/photoRenamer/MasterLogFile.txt");
     }
 
     /**
